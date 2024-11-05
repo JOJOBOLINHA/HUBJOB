@@ -55,10 +55,6 @@ criaCartao(
  )
 criaCartão(
     `Sociologia` ,
+    `Qual era as ações de Weber?` ,
+    `ação social racional com relação a fins, ação social racional com relação a valores, ação social afetiva e ação social tradicional.`
 )
-                    <h3>Sociologia</h3>
-                    <div class="cartao__conteudo__pergunta">
-                        <p> Qual era as ações de Weber? </p>
-                    </div>
-                    <div class="cartao__conteudo__resposta">
-                        <p>ação social racional com relação a fins, ação social racional com relação a valores, ação social afetiva e ação social tradicional.</p>
