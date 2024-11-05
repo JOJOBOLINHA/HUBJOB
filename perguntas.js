@@ -1,7 +1,7 @@
 criaCartao(
-    `Química` ,
-    `Alcinos são hidrocarbonetos...` ,
-    `alifáticos insaturados com tripla ligação.`
+    'Química' ,
+    'Alcinos são hidrocarbonetos...' ,
+    'alifáticos insaturados com tripla ligação.'
 )
 criaCartao(
     `Matemática` ,
